@@ -1,7 +1,7 @@
-# Twitter US Airline Sentiment Analysis
-• Developed a keyword tracker that determines which type of issues were being complained about the most on Twitter for each airlines
+# Retail Startup Analysis and Launch Plan
+• Determined the top 10 markets for a retail startup to enter based on consumer unit characteristics, average weekly sales by region, and sales differences on holiday vs. non-holiday weeks per region
 
-• Translated metrics and analysis into strategic business recommendations focused on increasing customer satisfaction.
+• Translated metrics and analysis into strategic business recommendations focused on high revenue and sales opportunities.
 
 • Built a compelling insight-driven narrative and designed concise data visualizations to communicate our findings effectively and reduce complexity.
 
@@ -9,6 +9,9 @@
 Microsoft Excel 
 
 ## Results
-31.7% of all negative sentiments revolve around "Customer Service Issues". It was determined that American Airlines, US Airways, and Southwest ranked the highest in negative sentiments towards customer service issues. 
+Based on an analysis performed to determine new markets with 0 stores to enter based on markets with the highest annual expenditures, Seattle, Washington D.C., San Diego, and San Francisco proved to be locations with the top markets to enter
 
-Based on Twitter data, American Airlines and Southwest struggled with customer service satisfaction when it came to "cancelled flights" as 41% and 58% of their issues stemmed from "cancelled flights" respectively. US Airways must also improve their customer service by putting customers on shorter hold while on the phone as 37% of their customer issues stemmed from "hold".
+By analyzing average weekly sales per store type in the Southern and Midwestern regions, Baltimore, Miami, Minneapolis, St. Louis, and Detroit offered a strong market to enter as well.
+
+Finally, sales differences on holiday weeks vs. non-holiday weeks determined that Cleveland would be another optimal market to enter.
+
