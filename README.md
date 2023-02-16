@@ -15,3 +15,11 @@ By analyzing average weekly sales per store type in the Southern and Midwestern 
 
 Finally, sales differences on holiday weeks vs. non-holiday weeks determined that Cleveland would be another optimal market to enter.
 
+## Annual Expenditure Slide
+![](https://github.com/sevesilvestre/RetailStartupAnalysis/blob/main/Images/Annual%20Expenditures.png)
+
+## Weekly Sales per Region
+![](https://github.com/sevesilvestre/RetailStartupAnalysis/blob/main/Images/Weekly%20Sales%20per%20Region.png)
+
+## Holiday vs Non-Holiday Sales
+![](https://github.com/sevesilvestre/RetailStartupAnalysis/blob/main/Images/Holiday%20vs%20NonHoliday%20Sales.png)
